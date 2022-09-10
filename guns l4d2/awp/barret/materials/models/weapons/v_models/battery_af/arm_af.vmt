@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$baseTexture "models\weapons\v_models\Battery_AF\Arm_AF_1"
+$bumpmap "models\weapons\v_models\Battery_AF\Arm_AF_2"
+$phongexponenttexture "models\weapons\v_models\Battery_AF\Arm_AF_3"
+
+$phongboost 0
+$phongexponent 0
+$phongfresnelranges "[0 2 30]"
+$halflambert 1
+$phong 0
+}

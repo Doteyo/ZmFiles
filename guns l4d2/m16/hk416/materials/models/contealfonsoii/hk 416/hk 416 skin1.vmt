@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+"$basetexture"		     	     "models\ConteAlfonsoII\hk 416\hk 416 skin1"
+"$bumpmap" 			             "models\ConteAlfonsoII\hk 416\hk 416 skin1_n"
+	
+"$nocull" "1"
+
+	"$color"						"[0.8 0.8 0.8]"
+	"$color2"						"[0.8 0.8 0.8]"
+	"$phong" "1"						
+	"$phongalbedotint" "1"
+	"$phongboost" "2"
+	"$phongexponent" 25
+	"$phongexponenttexture" "models\ConteAlfonsoII\hk 416\exp"
+
+
+	"$phongfresnelranges" "[1 1 1]"
+	"$lightwarptexture" "models\ConteAlfonsoII\hk 416\lightwarp"
+
+	"$detail" 				"models\ConteAlfonsoII\hk 416\detail_metal"
+	"$detailscale" 			"7"
+	"$detailblendfactor" 		"1"
+	"$detailblendmode" 		"0"
+
+}

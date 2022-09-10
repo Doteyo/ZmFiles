@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\mach_mg3\v_mg3"
+	"$bumpmap" 	"models\weapons\v_models\mach_mg3\v_mg3_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 5
+	"$envmapsaturation" 0.8
+	"$envmaptint" "[ 0.7 0.7 0.7 ]"
+        "$rimlight" "1"
+        "$rimlightexponent" "40"
+        "$rimlightboost" "0.2"
+        "$rimmask"
+        "PhongExponenttexture"
+        "$phong" "1"
+        "$phongboost"	"1"
+	"$phongexponent" "100"
+	"$phongfresnelranges" "[8 2 8]"
+	"$phongtint" "[ 1 1 1 ]"
+	"$normalmapalphaenvmapmask"	"1"
+
+}

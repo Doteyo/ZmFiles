@@ -1,0 +1,1 @@
+-novid -lv -heapsize 1572864 -refresh 60 +mat_queue_mode 2 -threads 4 -high +fps_max 300

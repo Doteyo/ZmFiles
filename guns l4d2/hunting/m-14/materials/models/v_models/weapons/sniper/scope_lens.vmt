@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\v_models\Weapons\sniper/scope_lens_color"
+	"$bumpmap" "models\v_models\Weapons\sniper/scope_lens_normals"
+	$normalmapalphaenvmapmask 1
+	$phong 1
+	$phongboost 5
+	$phongexponent 5
+	$phongtint	"[.97 1 .84]"
+	$phongfresnelranges "[.1 .4 2]"
+
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" 			"1"
+	"$envmapFresnelMinMaxExp" "[0 5 .4]"
+	"$envmaptint" "[.97 1 .84]"
+}

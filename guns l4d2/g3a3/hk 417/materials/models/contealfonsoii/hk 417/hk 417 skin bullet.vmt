@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+"$basetexture"		     	     "models\ConteAlfonsoII\hk 417\hk 417 skin bullet"
+"$bumpmap" 			             "models\ConteAlfonsoII\hk 417\hk 417 skin bullet_n"
+	
+"$nocull" "1"
+
+
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponenttexture" "models\ConteAlfonsoII\hk 417\exp"
+	"$lightwarptexture" "models\ConteAlfonsoII\hk 417\lightwarp"
+
+
+
+}

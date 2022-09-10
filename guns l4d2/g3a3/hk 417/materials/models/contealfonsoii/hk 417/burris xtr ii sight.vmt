@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ConteAlfonsoII\hk 417\burris xtr ii sight"
+
+
+"$alphatest" "1"
+"$nocull" "1"
+ 
+}

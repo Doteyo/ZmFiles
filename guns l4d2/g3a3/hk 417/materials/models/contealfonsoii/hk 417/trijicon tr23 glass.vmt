@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ConteAlfonsoII\hk 417\trijicon tr23 glass"
+	"$bumpmap" "models\ConteAlfonsoII\hk 417\eotech 512 point_n"
+
+$additive 1
+
+	//ReflectionsDir
+
+	"$phong" "1"						
+	"$phongboost"	"1.5" 		
+	"$phongexponent" "16"	
+	//"$phongexponenttexture" ""
+		
+	//"$phongwarptexture"		""		
+	$lightwarptexture "models\ConteAlfonsoII\hk 417\lightwarp"
+	
+	"$phongfresnelranges"	"[1.35 2.65 1.25]" 					
+	"$phongtint" 			"[1 1 1.1]"			
+	//"$PhongAlbedoTint" "1"
+
+ 
+}

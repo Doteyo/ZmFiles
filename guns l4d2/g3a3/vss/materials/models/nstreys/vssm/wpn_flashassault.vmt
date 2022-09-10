@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models\nstreys\vssm\wpn_flashassault"
+	$bumpmap				"models\nstreys\vssm\wpn_flashassault_bump"
+	$phongexponenttexture	"models\nstreys\vssm\wpn_flashassault_m"
+
+	"$bumpmapalphaphongmask" 1
+
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.5"
+	"$rimmask" "1"
+
+	"$phongalbedotint"	"1"
+
+	"$phongfresnelranges"	"[1.2 3 7]"
+
+	$envmap	"env_cubemap"
+	"$envmaptint"	"[ .05 .05 .05 ]"
+	"$basemapalphaenvmapmask" 1
+
+	"$halflambert" "1"
+	"$ambientocclusion" "1"
+	"$nocull" "0"
+
+}
