@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$phong 1
+	$basetexture 				"jap_type99/type99_d"
+	$bumpmap 				"jap_type99/type99_n"
+    $phongexponenttexture 		"jap_type99/type99_s"
+	$phongboost				"0.7"
+	$phongfresnelranges		"[1 4 8]"
+	
+	$envmap 				"env_cubemap"
+	$envmaptint				"[ 0.009 0.009 0.009 ]"
+	$envmapfresnel			"1"
+	$normalmapalphaphongmask        "1"
+	$normalmapalphaenvmapmask       "1"
+	$phongalbedotint	"1"
+	$halflambert	"1"
+	
+	$rimlight               "1"
+	$rimlightexponent       "120"
+	$rimlightboost          "0.55"	
+	$rimmask		"1"
+	
+
+}

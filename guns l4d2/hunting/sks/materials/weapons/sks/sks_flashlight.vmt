@@ -1,0 +1,14 @@
+"Vertexlitgeneric"
+{
+	$baseTexture 		"weapons\SKS\SKS_Flashlight_d"
+	$bumpmap 		"weapons\SKS\SKS_Flashlight_n"
+	"$halflambert" 		"0"
+
+	"$phong"     		"1"
+	"$phongboost"   		"0.34"
+	$phongexponenttexture 	"weapons\SKS\SKS_Flashlight_g"
+	"$phongfresnelranges"      	"[2.1 2.7 3.2]"
+	$ambientocclusion 		1
+
+	$lightwarptexture		"weapons\SKS\SKS_LW"
+}

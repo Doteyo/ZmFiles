@@ -1,0 +1,8 @@
+LightMappedGeneric
+{
+$basetexture "signs/sign_gunshop_hunting"
+$basetexturetransform "center .5 .5 scale 1 0.7 rotate 0 translate 0 0"	
+$surfaceprop default
+$decal 1
+$translucent 1
+}

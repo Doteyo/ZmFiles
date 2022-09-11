@@ -1,0 +1,7 @@
+UnlitGeneric 
+{
+	"$basetexture"		     	     "weapons\toz194\toz_dot"
+	$model 1
+	$translucent 1
+	$selfillum 1
+}

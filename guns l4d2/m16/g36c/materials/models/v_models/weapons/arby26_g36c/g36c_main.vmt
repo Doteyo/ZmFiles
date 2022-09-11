@@ -1,0 +1,31 @@
+vertexlitgeneric
+{
+
+$basetexture             "models\v_models\weapons\arby26_g36c\g36c_d"
+$bumpmap                 "models\v_models\weapons\arby26_g36c\g36c_n"
+$halflambert             0
+
+$phong                   1
+$phongboost              "1.5"
+$phongexponenttexture    "models\v_models\weapons\arby26_g36c\g36c_gloss"
+//$phongexponent         150
+$phongtint               "[.65 .65 1]"
+$phongfresnelranges      "[2.0 0.5 0.05]"
+$phongalbedotint         1
+
+
+//$envmap                  env_cubemap
+//$envmaptint              "[0.15 0.20 0.35]"
+//$envmaptint              "[0.7 1.0 1.25]"
+$normalmapalphaenvmapmask 1
+
+
+//$rimlight 1
+//$rimlightexponent "30"
+//$rimlightboost 1
+//$rimmask 1
+
+$ambientocclusion 1
+$diffuseexp "1.5"
+//$lightwarptexture "models\survivors\coach\coach_head_wrp"
+}

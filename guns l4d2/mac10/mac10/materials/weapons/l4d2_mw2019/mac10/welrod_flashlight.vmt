@@ -1,0 +1,21 @@
+vertexlitgeneric
+{
+
+$baseTexture "Weapons\L4D2_MW2019\MAC10\Welrod_Flashlight_d"
+$bumpmap "Weapons\L4D2_MW2019\MAC10\Welrod_Flashlight_n"
+$halflambert 0
+$color2	"[0.5 0.5 0.5]"
+
+$phong 1
+$phongboost "1.4"
+//$phongexponent 16
+$phongexponenttexture "Weapons\L4D2_MW2019\MAC10\Welrod_Flashlight_d"
+//$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.6 1 2]"
+$phongalbedotint 1
+
+//$envmap env_cubemap
+//$normalmapalphaenvmapmask 1
+
+$ambientocclusion 1
+}

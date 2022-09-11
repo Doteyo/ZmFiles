@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/bo_python/crosshair"
+	"$translucent" 1
+	//"$envmap" "models/weapons/v_models/bo_mp5k/body"
+                //"$envmaptint" "[0.3 0.3 0.2]"
+	//"$envmapcontrast" 0.9
+	//"$envmapsaturation" 0.7
+}

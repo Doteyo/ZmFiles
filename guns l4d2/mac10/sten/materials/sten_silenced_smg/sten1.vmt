@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 				"sten_silenced_smg/sten1"
+	"$bumpmap" 				"sten_silenced_smg/sten1_n"
+	"$phongexponenttexture" 		"sten_silenced_smg/sten1_s"
+	"$envmap" 				"env_cubemap"
+	
+	"$normalmapalphaenvmapmask" 		"1"
+	"$normalmapalphaphongmask"		"1"
+
+	"$envmaptint" 				"[ 0.015 0.015 0.015 ]"
+	"$envmapfresnel"			"1"
+	"$envmapFresnelMinMaxExp"		"[0 5 .4]"
+	"$phong" 				"1"
+	"$phongboost" 				"5"
+	"$phongalbedotint"			"1"
+	"$phongfresnelranges" 			"[.1 .4 1]"
+	
+}
