@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+"$basetexture"		     	 "models\ConteAlfonsoII\hk 417\hk 417 skin half"
+"$bumpmap" 			   "models\ConteAlfonsoII\hk 417\hk 417 skin half_n"
+	
+"$nocull" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[.5 1 4]"
+	"$phongexponenttexture" "models\ConteAlfonsoII\hk 417\exp"
+	"$lightwarptexture" "models\ConteAlfonsoII\hk 417\lightwarp"
+}

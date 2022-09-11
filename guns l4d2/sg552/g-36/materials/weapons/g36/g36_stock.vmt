@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"weapons\G36\G36_Furniture_d"
+	"$bumpmap"					"weapons\G36\G36_Furniture_n"
+	"$model"						"1"
+	$halflambert					1
+   	// "$color"						"[1 1 1]"
+
+//SELFILLUM (subtle to avoid complete occlusion)
+	//"$selfillum"					"1"
+	//"$selfillumtint"				"[.5 .5 .5]"
+	//"$selfillummask"				"weapons\G36\G36_body_e"
+
+//PHONG
+	"$phong"                        "1"
+	"$phongtint"                    "[1 .8 .8 ]"
+	"$phongboost"                   "2"
+	//"$phongexponent"				"50"
+	"$phongexponenttexture"			"weapons\G36\G36_Furniture_G"
+	"$phongfresnelranges"          "[1 2 3]"
+	$phongalbedotint		1
+
+//ENVMAP
+	"$envmap"						"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmaptint"                   "[.02 .02 .02]"
+	//$envmapfresnel 1
+
+	$lightwarptexture					"weapons\G36\G36_LW"
+}

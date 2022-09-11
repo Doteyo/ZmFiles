@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	"$baseTexture"				"models\v_models\weapons\mac10/bullet_color"
+	"$bumpmap" 					"models\v_models\weapons\mac10/bullet_normals"
+	
+	$phongtint                  "[1 1 .5]"
+	"$phongexponent" "10"
+	"$phongalbedotint" 			"1"
+	"$phong" 					"1"
+	"$phongboost"	"35"
+	"$phongfresnelranges"		"[0.5 4.75 5]"
+
+	$envmap                     env_cubemap
+	$envmaptint                 "[.015 .015 .008]"
+	$envmapfresnel              0.5
+	$normalmapalphaenvmapmask   1
+}

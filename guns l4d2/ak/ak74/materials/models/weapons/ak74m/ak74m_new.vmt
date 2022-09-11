@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models\weapons\AK74M\AK74M_d"
+	"$bumpmap" 				"models\weapons\AK74M\AK74M_n"
+	"$phongexponenttexture" "models\weapons\AK74M\AK74M_e"
+	"$nocull" "1"
+
+	$normalmapalphaenvmapmask			1
+	$normalmapalphaphongmask			1
+	
+	$envmap								env_cubemap
+	$envmaptint							"[0.04 0.05 0.054]"
+	$envmapfresnel						1
+	
+	$phong								1
+	$phongboost							4.5
+	$phongfresnelranges					"[0.3 0.7 1]"
+	$phongtint							"[0.76 0.79 1]"
+	
+	$rimlight							1
+	$rimlightboost						0.4
+	$rimlightexponent					80
+	$rimmask							1
+
+}

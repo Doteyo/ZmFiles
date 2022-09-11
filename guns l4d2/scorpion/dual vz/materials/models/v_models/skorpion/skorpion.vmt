@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\v_models\Skorpion/skorpion_dA"
+	"$bumpmap"	"models\v_models\Skorpion/skorpion_n"
+	//"$color2"	"[.8 .8 .8]"
+	//"$alphatest"	"1"
+	//"$nocull"	"1"
+
+	//"$phongexponenttexture"	"models\v_models\Skorpion\Skorpion_s"
+	"$phongexponent" "60"
+	"$phongalbedotint" 3
+	"$phong" "1"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[1 1.15 1.75]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.04 0.04 0.04]"
+	"$envmapfresnel"	"1.7"
+}

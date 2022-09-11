@@ -1,0 +1,25 @@
+//Guys, guys! I'va got an idea! Let's slap together a shitload of random shaders! it will look great! I promise...
+"VertexLitGeneric"
+{
+	"$basetexture"		 "models\v_models\weapons\m60\m60_d"
+	"$bumpmap" 		 "models\v_models\weapons\m60\m60_n"
+	"$revmap" 		 "models\v_models\weapons\m60\m60_rev"
+	"$phongexponenttexture"	 "models\v_models\weapons\m60\m60_phong"
+	"$halflambert"			"1"
+	"$phong" 			1
+	"$phongboost"			 1
+	"$normalmapalphaphongmask"	 1
+	$basealphaenvmapmask                          1
+	"$phongfresnelranges"		 "[1 3 6]"
+	"$phongalbedotint"			 "1"
+	"$phongtint" 			"[0.125 0.125 0.125]"
+	"$normalmapalphaenvmapmask" 	1
+	"$envmap" 			"env_cubemap"
+	"$envmapFresnelMinMaxExp" 	"[0 4 .4]"
+	"$envmaptint"			 "[.004 .003 .002]"
+	"$envmapfresnel"   			 "1"
+	"$rimlight"			  "1"
+	"$rimlightexponent"      		 "66"
+	"$rimlightboost"        		  "0.2"
+	"$rimmask"			  "1"
+}

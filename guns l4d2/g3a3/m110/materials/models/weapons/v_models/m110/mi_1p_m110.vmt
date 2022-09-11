@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models\weapons\v_models\m110\T_1P_M110_d"
+"$bumpmap" "models\weapons\v_models\m110\T_1P_M110_n"
+"$PhongExponentTexture" "models\weapons\v_models\m110\T_1P_M110_m"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.3 .3 .27]"
+"$phong" 		"1"
+"$phongboost" "10"
+"$phongalbedotint" 			"1"
+"$phongfresnelranges" "[2 5.2 7.6]"
+"$halflambert" "1"
+"$nocull" "1"
+
+
+}

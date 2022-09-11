@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+"$basetexture"		     	     "models\ConteAlfonsoII\hk 417\hk 417 skin interior"
+"$bumpmap" 			             "models\ConteAlfonsoII\hk 417\hk 417 skin interior_n"
+	
+"$nocull" "1"
+
+
+
+	"$phong" "1"						
+	"$phongalbedotint" "1"
+	"$phongboost" "13"
+	"$phongexponent" 20
+	"$phongexponenttexture" "models\ConteAlfonsoII\hk 417\exp"
+
+
+	"$phongfresnelranges" "[1 1 1]"
+	"$lightwarptexture" "models\ConteAlfonsoII\hk 417\lightwarp"
+
+	"$detail" 				"models\ConteAlfonsoII\hk 417\detail_metal"
+	"$detailscale" 			"7"
+	"$detailblendfactor" 		"1"
+	"$detailblendmode" 		"0"
+
+}

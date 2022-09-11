@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Weapons/SMGs/CODMWR/MiniUzi/Stock"
+	$bumpmap        "Weapons/SMGs/CODMWR/MiniUzi/Stock_N"
+	$phongexponenttexture "Weapons/SMGs/CODMWR/MiniUzi/Stock_S"
+
+                $nodecal 1
+
+             //PHONG
+
+	$phong "1"
+	$phongboost "2.2"
+	$phongfresnelranges "[0.5 1 2]"
+
+             //ENV
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.008 0.008 0.008]"
+	$normalmapalphaenvmapmask "1"
+
+                //RIMLIGHT
+
+	$rimlight	                1
+	$rimlight_boost	25
+}

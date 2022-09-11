@@ -1,0 +1,60 @@
+//VertexLitGeneric
+//{
+//	$phong 1
+//	$basetexture				"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_base_d"
+//	$bumpmap					"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_base_n"
+//	$phongexponenttexture 		"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_base_s"
+//	$lightwarptexture			"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_r"
+//	
+//		
+//	$phongboost                 "10"
+//	$phongfresnelranges         "[1 4 8]"
+//	
+//	//$diffuseexp 				"0.7"
+//	$envmap 					"env_cubemap"
+//	$envmapfresnel 				"1"
+//	$envmaptint					"[0.05 0.05 0.05]"
+//	$phongalbedotint			"1"
+//	$phongtint                  "[.75 .95 1]"
+//	$basemapalphaphongmask 1
+//	$basemapalphaenvmapmask 1
+//		
+//}
+
+"VertexLitGeneric"
+{
+	$basetexture				"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_base_d"
+	$bumpmap					"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_base_n"
+	$phongexponenttexture 		"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_base_s"
+//	$selfillummask				"models\weapons\generic\weapon_generic_si"
+
+
+//BASIC
+	$model						"1"
+    $color						"[ 1 1 1 ]"
+	
+//SELFILLUM (subtle to avoid complete occlusion)
+//	$selfillum					"1"
+//	$selfillumtint				"[ 1 1 1 ]"
+
+//RIMLIGHT
+	$rimlight					"1"
+	$rimlightexponent       	"80"
+	$rimmask					"1"
+	$rimlightboost          	"2.5"	
+
+//PHONG
+	$phong  					"1"
+//	$phongexponent 				"36"
+	$phongboost 				"20"
+	$basemapalphaphongmask		"1"
+	$phongfresnelranges 		"[ 0.1 0.5 1 ]"
+	$phongtint 					"[.75 .95 1]"
+
+//ENVMAP
+	$envmap						"env_cubemap"
+//	$envmapfresnel 				"-1"
+	$basemapalphaenvmapmask		"1"
+	$envmaptint               	"[ .05 .05 .05 ]"
+}
+

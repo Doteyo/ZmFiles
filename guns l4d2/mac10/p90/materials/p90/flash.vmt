@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "p90/flash"
+	"$bumpmap" "p90/flash_n"	
+	
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$envmapcontrast" 0.7
+
+        	"$phong"     "1"
+	"$phongexponent"  "30"
+	"$phongexponenttexture" "p90/flash_s"
+	"$phongboost" 50
+	$phongfresnelranges "[0.3 0.5 1]"
+	
+	$rimlight               1
+	$rimlight exponent       2
+	$rimlightboost          0.2
+	
+}

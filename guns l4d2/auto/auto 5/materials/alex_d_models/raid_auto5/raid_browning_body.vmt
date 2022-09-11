@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"alex_d_models\raid_auto5\raid_browning_body_d"
+	"$bumpmap"	"alex_d_models\raid_auto5\raid_browning_body_n"
+
+	"$phongexponent" "35"
+	"$phongalbedotint" 3
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 2.15 1.75]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.04 0.04 0.04]"
+	"$envmapfresnel"	"1.7"
+}

@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models\ConteAlfonsoII\hk 416\attachment_vm_laser03_d"
+	$bumpmap			"models\ConteAlfonsoII\hk 416\attachment_vm_laser03_n"
+	$phongexponenttexture	"models\ConteAlfonsoII\hk 416\attachment_vm_laser03_s"
+
+"$nocull" "1"
+
+	"$color"						"[0.8 0.8 0.8]"
+	"$color2"						"[0.8 0.8 0.8]"
+
+	"$phong" "1"						
+	"$phongalbedotint" "1"
+	"$phongboost" "8"
+	"$phongexponent" 25
+
+
+	"$phongfresnelranges" "[1 1 1]"
+	"$lightwarptexture" "models\ConteAlfonsoII\hk 416\lightwarp"
+
+	"$detail" 				"models\ConteAlfonsoII\hk 416\detail_metal"
+	"$detailscale" 			"7"
+	"$detailblendfactor" 		"1"
+	"$detailblendmode" 		"0"
+
+}

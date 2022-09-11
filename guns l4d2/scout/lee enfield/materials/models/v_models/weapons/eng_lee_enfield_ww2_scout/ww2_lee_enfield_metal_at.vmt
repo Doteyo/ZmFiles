@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	$phong 1
+	$basetexture				"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_at_d"
+	$bumpmap					"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_at_n"
+	$phongexponenttexture 		"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_at_s"
+	$lightwarptexture			"models/v_models/weapons/eng_lee_enfield_ww2_scout/ww2_lee_enfield_r"
+	
+		
+	$phongboost                 "10"
+	$phongfresnelranges         "[1 4 8]"
+	
+	//$diffuseexp 				"0.7"
+	$envmap 					"env_cubemap"
+	$envmapfresnel 				"1"
+	$envmaptint					"[0.05 0.05 0.05]"
+	$phongalbedotint			"1"
+	$phongtint                  "[.75 .95 1]"
+	$basemapalphaphongmask 1
+	$basemapalphaenvmapmask 1
+		
+}
+

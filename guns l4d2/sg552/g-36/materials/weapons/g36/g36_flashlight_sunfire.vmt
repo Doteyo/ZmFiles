@@ -1,0 +1,24 @@
+Vertexlitgeneric
+{
+
+	// MAIN SETTINGS
+	"$basetexture" "weapons\G36\G36_Flashlight_SunFire_D"
+	"$bumpmap"     "weapons\G36\G36_Flashlight_SunFire_N"
+	"$nocull" "1"
+	"$color" 			"[.8 .8 .8] "
+	//"$halflambert" 			"1"
+	
+	"$phong"  				"1"
+	"$phongexponenttexture" "weapons\G36\G36_Flashlight_SunFire_G"
+	"$phongboost" 			"5"
+	"$phongfresnelranges" 	"[0.1 0.4 1]"
+	//"$phongtint" 			"[1.96 1.69 1.2]"
+	"$phongalbedotint" 		"1"	
+	
+	"$envmap"						"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"
+	$envmapfresnel 1
+
+	$lightwarptexture					"weapons\G36\G36_LW"
+}

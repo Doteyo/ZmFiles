@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models\weapons\ins2_sandstorm\m24\mk4_crosshair"
+	"$translucent" 	"1"
+}
