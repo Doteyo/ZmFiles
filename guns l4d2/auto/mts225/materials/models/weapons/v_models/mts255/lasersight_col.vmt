@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models\weapons\v_models\mts255\lasersight_col"
+"$bumpmap" "models\weapons\v_models\mts255\lasersight_n"
+"$PhongExponentTexture" "models\weapons\v_models\mts255\lasersight_e"
+"$normalmapalphaenvmapmask" 1
+"$envmap" "env_cubemap"
+"$envmapfresnel" 			"1"
+"$envmapFresnelMinMaxExp"		"[0 .4 1]"
+"$envmaptint" "[.015 .017 .019]"
+"$phong" 		"1"
+
+"$phongboost" "30"
+"$phongalbedotint" 			"1"
+"$phongalbedoboost" "25"
+"$phongfresnelranges" "[1.5 4.2 6.5]"
+"$halflambert" "1"
+"$ambientocclusion" "1"
+"$nocull" "1"
+
+
+}

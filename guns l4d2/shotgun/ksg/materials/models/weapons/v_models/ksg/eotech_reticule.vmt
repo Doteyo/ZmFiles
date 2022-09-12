@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\ksg\eotech_reticule"
+	"$model" 		"1"
+	"$translucent" 	"1"
+	"$additive"	"1"
+	"$selfillum"	"1"
+	"$nocull"		"1"
+}

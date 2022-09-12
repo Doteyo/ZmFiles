@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture"	"weapons\SKS\SKS_PUScope_Crosshair_D"
-	//"$translucent" 	"1"
-	"$alphatest" "1"
-	$allowalphatocoverage 1
-	"$ambientocclusion" "0"
-}

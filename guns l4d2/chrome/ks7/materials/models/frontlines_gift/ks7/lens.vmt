@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/frontlines_gift/ks7/lens"
+	$translucent 1
+}

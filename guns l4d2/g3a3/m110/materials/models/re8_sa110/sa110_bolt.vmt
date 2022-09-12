@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/re8_sa110/sa110_d"
+	"$bumpmap" "models/re8_sa110/sa110_n"
+	"$color2" "[0.3 0.3 0.3]"
+	"$nocull" "1"
+   	"$halflambert" "1"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost" "5"
+	//"$phongexponent" "20"
+	"$phongfresnelranges"	"[1 3 4]"
+	"$phongexponenttexture" "models/re8_sa110/sa110_e"
+	
+	"$envmap" 					 "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.03 0.03 0.03]"		
+	//"$phongtint" 			"[0.5 0.5 0.5]"			
+	"$PhongAlbedoTint" "1"		
+}

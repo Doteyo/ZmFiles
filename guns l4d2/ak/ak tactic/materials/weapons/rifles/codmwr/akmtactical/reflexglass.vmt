@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Weapons/Rifles/CODMWR/AKMTactical/ReflexGlass"
+	$bumpmap        "Weapons/Rifles/CODMWR/AKMTactical/ReflexGlass_N"
+	$phongexponenttexture "Weapons/Rifles/CODMWR/AKMTactical/ReflexGlass_S"
+
+                $nodecal 1
+                $translucent 1
+
+             //PHONG
+
+	$phong "1"
+	$phongboost "20"
+	$phongfresnelranges "[1 2 4]"
+	$phongalbedotint "1"
+
+             //ENV
+
+	$envmap "env_cubemap"
+	$envmaptint "[1 1 1]"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+}

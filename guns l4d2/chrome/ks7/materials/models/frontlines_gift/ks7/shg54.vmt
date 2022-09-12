@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/frontlines_gift/ks7/shg54"
+	"$bumpmap" "models/frontlines_gift/ks7/shg54_n1"
+	"$phongexponenttexture" "models/frontlines_gift/ks7/shg54_s"
+	$color2 "[0.7 0.7 0.7]"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .065 .065 .065]"
+	"$envmapconstrast" "1"
+	"$halflambert""1"
+	"$phong" "1"
+	"$phongfresnelranges" "[3 3 3]"
+	"$phongexponent" "75"
+	"$phongboost" "35"
+	"$phongalbedotint" 	"1"
+	"$phongalbedoboost" "25"
+
+	"$rimlight" "1"
+	"$rimlightexponent" 	"50"	
+	"$rimlightboost"	"15"
+	"$rimmask" "1"
+	$selfillum 1
+	$selfillummask "models/frontlines_gift/ks7/shg54_g"
+
+}
+
+

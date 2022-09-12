@@ -1,0 +1,12 @@
+patch
+{
+
+include "materials\weapons\typewriterpro\Thompson_Shared_Metal.vmt"
+insert
+{
+"$basetexture" 			"weapons\typewriterpro\Thompson_FunnelOFun_D"
+"$bumpmap" 			"weapons\typewriterpro\Thompson_FunnelOFun_N"
+"$phongexponenttexture" 		"weapons\typewriterpro\Thompson_FunnelOFun_G"
+$phongboost 6
+}
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+"$basetexture" "weapons\typewriterpro\Thompson_C-More_Glass_D"
+	
+"$additive" "1"
+"$model" "1"	
+"$nocull" "1"
+}

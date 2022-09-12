@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models\weapons\v_models\ksg\SUREFIRE_M720V"
+	$bumpmap 			"models\weapons\v_models\ksg\SUREFIRE_M720V_n"
+	"$color"			"[1 1 1]"
+	$normalmapalphaenvmapmask 	"1"
+
+	 //$phongtint 			"[.6 .8 1]"
+
+	$envmap 			env_cubemap
+	$envmaptint 			"[.001 .001 .001  ]"
+
+	$phong 				"1"
+	//$PhongAlbedoTint 		"0"	
+	//$BasemapLuminancePhongMask	"1"
+	
+	$phongexponent 			"25"
+	$phongboost 			"1"
+	$phongfresnelranges		"[.5 1 3]"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\v_models\Aps/aps_dA"
+	"$bumpmap"	"models\v_models\Aps/aps_n"
+	//"$color2"	"[.9 .9 .9]"
+
+	//"$phongexponenttexture"	"models\v_models\Aps\aps_s"
+	"$BasemapLuminancePhongMask" "1" 
+	"$phongexponent" "35"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[1 2.15 1.75]"
+
+}

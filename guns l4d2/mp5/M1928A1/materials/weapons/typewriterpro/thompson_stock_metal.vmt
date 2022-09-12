@@ -1,0 +1,11 @@
+patch
+{
+
+include "materials\weapons\typewriterpro\Thompson_Shared_Metal.vmt"
+insert
+{
+"$basetexture" 			"weapons\typewriterpro\Thompson_Stock_Synth_D"
+"$bumpmap" 			"weapons\typewriterpro\Thompson_Stock_Synth_N"
+"$phongexponenttexture" 		"weapons\typewriterpro\Thompson_Stock_Synth_G"
+}
+}

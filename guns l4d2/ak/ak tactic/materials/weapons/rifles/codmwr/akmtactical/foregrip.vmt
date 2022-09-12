@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Weapons/Rifles/CODMWR/AKMTactical/ForeGrip"
+	$bumpmap        "Weapons/Rifles/CODMWR/AKMTactical/ForeGrip_N"
+	$phongexponenttexture "Weapons/Rifles/CODMWR/AKMTactical/ForeGrip_S"
+
+                $nodecal 1
+
+             //PHONG
+
+	$phong "1"
+	$phongboost "0.5"
+	$phongfresnelranges "[0.15 0.25 1]"
+	$phongalbedotint "1"
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\v_models\Aps/aps_dA"
+	"$bumpmap"	"models\v_models\Aps/aps_n"
+	//"$color2"	"[.9 .9 .9]"
+	"$alphatest"	"1"
+	"$nocull"	"1"
+
+	//"$phongexponenttexture"	"models\v_models\Aps\aps_s"
+	"$phongexponent" "35"
+	"$phongalbedotint" 3
+	"$phong" "1"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[1 2.15 1.75]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.07 0.07 0.07]"
+	"$envmapfresnel"	"1.7"
+}

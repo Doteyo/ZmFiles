@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Weapons/Rifles/CODMWR/AKMTactical/OpticMount"
+	$bumpmap        "Weapons/Rifles/CODMWR/AKMTactical/OpticMount_N"
+	$phongexponenttexture "Weapons/Rifles/CODMWR/AKMTactical/OpticMount_S"
+
+                $nodecal 1
+
+             //PHONG
+
+	$phong "1"
+	$phongboost "10"
+	$phongfresnelranges "[0.15 0.25 1]"
+	$phongalbedotint "1"
+
+             //ENV
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.05 0.05 0.05]"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+}

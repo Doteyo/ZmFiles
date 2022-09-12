@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 				"weapons\QBZ95\QBZ95_bullet_d"
+	"$bumpmap" 				"weapons\QBZ95\QBZ95_bullet_n"
+	"$model"			"1"
+    	//"$color"			"[1 1 1]"
+
+//PHONG
+	"$phong"                        "1"
+	"$phongtint"                    "[0.97 0.7 0.3]"
+	"$phongboost"                   "2"
+	//"$phongexponent"		"30"
+	$phongexponenttexture		"weapons\QBZ95\QBZ95_bullet_s"
+	"$phongfresnelranges"           "[3 7 1]"
+
+//ENVMAP
+	"$envmap"                       "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapfresnel" 		"1"
+	"$envmaptint"                   "[0.04 0.017 0]"
+
+	$lightwarptexture			"weapons\QBZ95\QBZ95_LW"
+}

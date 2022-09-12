@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mwr/M16/Suppressor"
+	$bumpmap "mwr/M16/Suppressor_n"
+	$phongexponenttexture "mwr/M16/Suppressor_s"
+	
+	$phong "1" 
+	$phongboost "0.3" 
+	$phongfresnelranges "[1 4 16]" 
+	
+	$rimlight "1"
+	$rimlightexponent "4"
+	$rimmask "1"
+	
+}
