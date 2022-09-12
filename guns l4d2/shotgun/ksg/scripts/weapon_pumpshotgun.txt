@@ -64,7 +64,7 @@ WeaponData
 	"Range"				"2000"
 	"RangeModifier"		"0.6"	// 0.96
 	"Bullets"			"10"
-	"CycleTime"			"0.33"
+	"CycleTime"			"0.27"
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"Pump Shotgun"	

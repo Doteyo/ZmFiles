@@ -55,14 +55,14 @@ WeaponData
 	
 	// Weapon characteristics:
 	"PenetrationNumLayers"		"2"
-	"PenetrationPower"			"35"
-	"PenetrationMaxDistance"	"500"	// none
+	"PenetrationPower"			"40"
+	"PenetrationMaxDistance"	"1000"	// none
 
-	"Damage"			"20"
+	"Damage"			"35"
 	"Range"				"2500"
 	"RangeModifier"			"0.8"
 	"GainRange"			"1500"	// range at which to use a gain curve to fall off to zero
-	"Bullets"			"8"
+	"Bullets"			"6"
 	"CycleTime"			"0.35"
 
 	"TimeToIdle"			"1.5"

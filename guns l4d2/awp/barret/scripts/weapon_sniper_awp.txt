@@ -42,7 +42,7 @@ WeaponData
 	"WeaponAutoAimScale"			"1.0"
 	// End Terror-specific Data ----------------
 
-	"MaxPlayerSpeed"		"190"
+	"MaxPlayerSpeed"		"175"
 	"WeaponType"			"sniper_rifle"
 	"WeaponPrice"			"4200"
 	"WeaponArmorRatio"		"1.45"
@@ -62,16 +62,16 @@ WeaponData
 	"PenetrationMaxDistance"	"0"	// none
 	"CharacterPenetrationMaxDistance" "8192" // Shooting through infected is doesn't count against penetration count out to this range
 
-	"Damage"			"600"
+	"Damage"			"900"
 	"Range"				"10000"
-	"RangeModifier"			"1.0"
+	"RangeModifier"			"1.1"
 	"Bullets"			"1"
-	"CycleTime"			"1.6" // premod 1.05
+	"CycleTime"			"1.65" // premod 1.05
 	"AccuracyDivisor"		"-1"
 	"AccuracyOffset"		"0"
 	"MaxInaccuracy"			"0"
-	"TimeToIdle"			"2"
-	"IdleInterval"			"60"
+	"TimeToIdle"			"3"
+	"IdleInterval"			"70"
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"Sniper AWP"
@@ -96,10 +96,10 @@ WeaponData
 
 	"clip_size"			"5"
 	
-	"primary_ammo"			"AMMO_TYPE_HUNTINGRIFLE"
+	"primary_ammo"			"AMMO_TYPE_GRENADELAUNCHER"
 	"secondary_ammo"		"None"
 
-	"weight"			"45"
+	"weight"			"90"
 	"item_flags"			"0"
 
 	"LoadoutSlots"	"2"

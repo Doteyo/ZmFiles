@@ -90,7 +90,7 @@ WeaponData
 	"bucket"			"0"
 	"bucket_position"		"0"
 
-	"clip_size"			"20"   //was 50
+	"clip_size"			"25"   //was 50
 	
 	"primary_ammo"			"AMMO_TYPE_ASSAULTRIFLE"
 	"secondary_ammo"		"None"

@@ -1,7 +1,7 @@
 WeaponData
 {
 	// Terror-specific Data --------------------
-	"VerticalPunch"			"2"
+	"VerticalPunch"			"2.1"
 	"SpreadPerShot"			"0.4"
 	"MaxSpread"				"30"
 	"SpreadDecay"			"5"

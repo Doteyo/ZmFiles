@@ -1,7 +1,7 @@
 WeaponData
 {
 	// Terror-specific Data --------------------
-	"VerticalPunch"			"5.0"
+	"VerticalPunch"			"6.0"
 	"SpreadPerShot"			"2"
 	"MaxSpread"			"30"
 	"SpreadDecay"			"5"
@@ -66,7 +66,7 @@ WeaponData
 	"Range"				"2000"
 	"RangeModifier"			"0.75"
 	"Bullets"			"1"
-	"CycleTime"			"0.2"
+	"CycleTime"			"0.187"
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"Magnum"
