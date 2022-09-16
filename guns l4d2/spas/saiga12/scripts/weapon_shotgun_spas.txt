@@ -92,7 +92,7 @@ WeaponData
 
 	"clip_size"			"12"  //increased from 9
 	
-	"primary_ammo"			"AMMO_TYPE_SHOTGUN"
+	"primary_ammo"			"AMMO_TYPE_AUTOSHOTGUN"
 	"secondary_ammo"		"None"
 
 	"weight"			"40"

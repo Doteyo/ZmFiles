@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "weapons\f2000\f2000"
+	"$bumpmap" "weapons\f2000\f2k_phongy"
+	$nocull 1
+	"$phong" "1"
+	$BASEMAPLUMINANCEPHONGMASK 1
+	"$phongexponent" "45"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+
+}
+

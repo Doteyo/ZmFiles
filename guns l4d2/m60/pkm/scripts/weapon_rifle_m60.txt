@@ -9,6 +9,7 @@ WeaponData
 	"MinStandingSpread"		"1" 	
 	"MinInAirSpread"		"3"
 	"MaxMovementSpread"		"6"
+	"ReloadDuration"		"3"
 	"AddonAttachment"		"pistol"
 	"Team" 					"Survivor"
 	
@@ -91,7 +92,7 @@ WeaponData
 	"bucket"			"8"
 	"bucket_position"		"0"
 
-	"clip_size"			"125"
+	"clip_size"			"150"
 	
 	"primary_ammo"			"AMMO_TYPE_M60"
 	"secondary_ammo"		"None"

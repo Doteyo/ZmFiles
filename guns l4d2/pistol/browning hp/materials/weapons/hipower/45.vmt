@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "weapons\hipower\45"
+	"$bumpmap" "weapons\hipower\45_norm"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+}

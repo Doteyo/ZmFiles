@@ -65,7 +65,7 @@ WeaponData
 	"Range"				"6000"
 	"RangeModifier"			"0.55"
 	"Bullets"			"1"
-	"CycleTime"			"0.08"
+	"CycleTime"			"0.07"
 	"AccuracyDivisor"		"-1"
 	"AccuracyOffset"		"0"
 	"MaxInaccuracy"			"0"

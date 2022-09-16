@@ -42,7 +42,7 @@ WeaponData
 	"WeaponAutoAimScale"			"1.0"
 	// End Terror-specific Data ----------------
 
-	"Rumble"			"4"
+	"Rumble"			"6"
 
 	"MaxPlayerSpeed" 		"240"
 	"WeaponType"			"shotgun"

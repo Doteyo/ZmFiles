@@ -1,9 +1,9 @@
 WeaponData
 {
 	// Terror-specific Data --------------------
-	"VerticalPunch"			"1.7"
-	"SpreadPerShot"			"0.35"
-	"MaxSpread"				"22"
+	"VerticalPunch"			"1.85"
+	"SpreadPerShot"			"0.9"
+	"MaxSpread"				"25"
 	"SpreadDecay"			"5"
 	"MinDuckingSpread"		"0.4"
 	"MinStandingSpread"		"1.0"
@@ -62,10 +62,10 @@ WeaponData
 	"Range"				"1500"
 	"RangeModifier"			"0.5"
 	"Bullets"			"1"
-	"CycleTime"			"0.073"
+	"CycleTime"			"0.088"
 
-	"TimeToIdle"			"1.85"
-	"IdleInterval"			"18"
+	"TimeToIdle"			"1.98"
+	"IdleInterval"			"20"
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"SMG"
