@@ -66,7 +66,7 @@ WeaponData
 	"Range"				"1800"
 	"RangeModifier"			"0.55"
 	"Bullets"			"1"
-	"CycleTime"			"0.098"
+	"CycleTime"			"0.15"
 	
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"Magnum"
