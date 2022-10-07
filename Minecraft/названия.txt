@@ -1,0 +1,12 @@
+*Деревянная мотыга:
+Glock - Glock 18
+Glock_alt - Glock 18 Alt.
+USP - USP-45
+USPS - USP-45 Silent
+P228 - P-228
+M1911 - Colt M1911
+Deagle - Deagle
+R8 - R-8
+Fiveseven - Five-Seven
+Dual_ber - Dual Beretta F92
+Dual_infinity - Dual Infinity
