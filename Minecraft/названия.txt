@@ -1,12 +1,63 @@
-*Деревянная мотыга:
-Glock - Glock 18
-Glock_alt - Glock 18 Alt.
-USP - USP-45
-USPS - USP-45 Silent
-P228 - P-228
-M1911 - Colt M1911
-Deagle - Deagle
-R8 - R-8
-Fiveseven - Five-Seven
-Dual_ber - Dual Beretta F92
-Dual_infinity - Dual Infinity
+*Деревянная мотыга: 12 (10)
+glock - Glock 18
+glock_alt - Glock 18 Alt.
+usp - USP-45
+usps - USP-45 Silent
+p228 - P-228
+deagle - Deagle
+r8 - R-8
+fiveseven - Five-Seven
+dual_ber - Dual Beretta F92
+dual_infinity - Dual Infinity
+dual_deagle - Dual Deagle
+
+*Каменная мотыга: 9 (8)
+mac - MAC-10
+tmp - TMP
+mp5 - MP-5A3
+ump45 - UMP-45
+p90 - P-90
+bizon - PP-19 Bizon
+vector - Vector
+vectors - Vector Silent
+dual_uzi - Dual Uzi
+
+*Железная мотыга: 4
+m3 - Benelli M-3
+xm1014 - M-1014
+ksg - KSG-9
+spas - SPAS-12
+
+*Алмазная мотыга: 13 (10)
+ak47 - AK-47
+aug - AUG A1
+f2000 - F-2000
+famas - FAMAS G1
+famas_alt - FAMAS G1 Alt.
+galil - Galil AR
+m4a1 - M-4A1
+m4a1s - M-4A1 Silent
+scarh - SCAR-H
+scarh_alt - SCAR-H Alt.
+sg552 - SG-552
+val - AS VAL
+akm -AKM
+
+*Золотая мотыга: 6 
+awp - AWP
+g3sg1 - G-3SG1
+m107 - M-107
+psg - PSG-01
+scout - Scout
+svd - SVD
+
+*Незеритовая мотыга:
+m249 - M-249 SAW
+m60- M-60
+
+*Железный меч:
+axe - Axe
+crowbar - Crowbar
+katana - Katana
+m9 - Knife
+machete - Machete
