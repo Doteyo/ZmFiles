@@ -1,6 +1,0 @@
-
-$DefineBone "ValveBiped" "" 0 0 0 0 0 89.999983 0 0 0 0 0 0
-$DefineBone "ValveBiped.weapon_bone" "ValveBiped" 0 0.744264 2.049373 0 0 0 0 0 0 0 0 0
-$DefineBone "ValveBiped.weapon_bone_Clip" "ValveBiped.weapon_bone" 0 0 10 0 0 0 0 0 0 0 0 0
-$DefineBone "ValveBiped.flashlight" "ValveBiped.weapon_bone" 0 1.708333 23.467274 0 0 0 0 0 0 0 0 0
-

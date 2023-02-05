@@ -1,9 +1,0 @@
-"vertexlitgeneric"
-{
-	"$surfaceprop" "glass"
-	"$basetexture" "models\weapons\v_models\Battery\Barrett\Lens_D"
-	"$bumpmap"           "models\weapons\v_models\Battery\Barrett\Lens_N"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask"  "1"
-                    "$translucent" "1"
-}
